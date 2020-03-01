@@ -1,6 +1,8 @@
 # Create Docker Container #
 
 * MySQL: mariadb
-* phpmyadmin
+* phpmyadmin on port 8080
 * php-fpm
-* nginx
+* nginx on port 80 || 433
+
+
