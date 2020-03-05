@@ -1,2 +1,5 @@
 .idea
 docker/database/data
+httpdocs
+!httpdocs/public/index.php
+
